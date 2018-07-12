@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "328980760926",
+    "firebase_url": "https://smartreceptionist-9913f.firebaseio.com",
+    "project_id": "smartreceptionist-9913f",
+    "storage_bucket": "smartreceptionist-9913f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328980760926:android:7f087beca5719a68",
+        "android_client_info": {
+          "package_name": "com.example.apple.smartreceptionist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328980760926-8o5bdvvlmorlhncfta3uc7ttui85f5l7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apple.smartreceptionist",
+            "certificate_hash": "5c897369638a7e5e3b206cc97e255acd50f27ef2"
+          }
+        },
+        {
+          "client_id": "328980760926-7pqrsdgd2saj11e7itcu6af3jd4j7ib2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj2XcT28DzzFHaxop7nkq0HyCh7kU-Gj8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328980760926-7pqrsdgd2saj11e7itcu6af3jd4j7ib2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
